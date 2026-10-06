@@ -1,0 +1,17 @@
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\AssetManagementSystemApplication.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\controller\AssetController.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\controller\UserController.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\entities\Asset.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\entities\AssetLocation.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\entities\AssetStatus.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\entities\Role.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\entities\User.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\exception\ErrorResponse.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\exception\ForbiddenException.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\exception\GlobalExceptionHandler.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\exception\InvalidStateException.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\exception\ResourceNotFoundException.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\Repository\AssetRepository.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\Repository\UserRepository.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\services\AssetService.java
+C:\Users\user\Downloads\ASSET MANAGEMENT SYSTEM\ASSET-MANAGEMENT-SYSTEM\src\main\java\com\asset\ASSET\MANAGEMENT\SYSTEM\services\UserService.java

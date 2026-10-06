@@ -1,0 +1,17 @@
+com\asset\ASSET\MANAGEMENT\SYSTEM\Repository\AssetRepository.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\services\AssetService.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\exception\ResourceNotFoundException.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\exception\ErrorResponse.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\entities\User.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\controller\UserController.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\entities\Asset.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\controller\AssetController.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\exception\InvalidStateException.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\exception\GlobalExceptionHandler.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\entities\AssetLocation.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\Repository\UserRepository.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\entities\AssetStatus.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\services\UserService.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\entities\Role.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\AssetManagementSystemApplication.class
+com\asset\ASSET\MANAGEMENT\SYSTEM\exception\ForbiddenException.class
